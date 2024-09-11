@@ -328,7 +328,9 @@ public void postCoffeeRequest() throws IOException {
 		
 	}
 
-
+public void newmethod() {
+		
+	}
 
 }
 
