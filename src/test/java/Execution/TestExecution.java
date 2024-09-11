@@ -324,6 +324,9 @@ public void postCoffeeRequest() throws IOException {
 		
 		
 	}
+	public void method() {
+		
+	}
 
 
 

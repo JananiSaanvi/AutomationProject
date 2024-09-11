@@ -21,5 +21,8 @@ public class Datum {
 	public String getAvatar() {
 		return avatar;
 	}
+	
+	
+	
 	 
 }
